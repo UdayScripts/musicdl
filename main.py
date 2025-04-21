@@ -5,7 +5,7 @@ from io import BytesIO
 import time
 
 # Replace with your Telegram bot token and channel URL
-BOT_TOKEN = "7524046996:AAFNG55JqdEDNn0IsbX4zk9lWmO1JtPuE0k"
+BOT_TOKEN = "7048215725:AAEwP6mJiAMmDxVw1VmiiVtB6qA67L-mwkk"
 CHANNEL_URL = "https://t.me/UdayScripts"  # Replace with your channel URL
 API_URL = "https://music.udayscriptsx.workers.dev/?query="
 
